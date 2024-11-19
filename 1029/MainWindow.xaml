@@ -7,7 +7,6 @@
         xmlns:xctk="http://schemas.xceed.com/wpf/xaml/toolkit"
         mc:Ignorable="d"
         Title="MainWindow" Height="650" Width="1000">
-
     <DockPanel LastChildFill="False">
         <Menu Height="30" DockPanel.Dock="Top">
             <MenuItem Header="檔案" FontSize="14" Height="28" VerticalAlignment="Center">
