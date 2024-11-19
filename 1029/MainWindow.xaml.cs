@@ -12,7 +12,7 @@ namespace _1029
 {
     public partial class MainWindow : Window
     {
-        Point start = new Point { X = 0, Y = 20 };
+        Point start = new Point { X = 0, Y = 0 };
         Point dest = new Point { X = 0, Y = 0 };
         Color strokeColor = Colors.Red;
         int strokeThickness = 1;
